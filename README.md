@@ -1,4 +1,0 @@
-ackermann
-=========
-
-The Ackermann function.
